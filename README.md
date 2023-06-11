@@ -1,5 +1,3 @@
-I can try to write a README file for your GitHub repo, but you may need to edit it later to suit your preferences. Here is a possible README file:
-
 # Iris Classification using Neural Network
 
 This repo contains a Python code that uses a neural network model to classify the iris dataset into three species: setosa, versicolor, and virginica. The code uses the pandas, numpy, matplotlib, seaborn, sklearn, and keras modules to perform data preprocessing, model building, training, and evaluation.
